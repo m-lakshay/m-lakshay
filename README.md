@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m-lakshay
+- 👋 Hi, I’m Lakshay
 - 👀 I’m interested in Coding and Sports.
 - 🌱 I’m currently learning c++.
 - 📫 Reach me on instagram @i_m__lakshay.
