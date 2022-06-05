@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Snake animation]([https://github.com/{{m-lakshay}}/{{m-lakshay}}/blob/output/github-contribution-grid-snake.sv](https://github.com/m-lakshay/m-lakshay/blob/output/github-contribution-grid-snake.svg))
+![Snake animation](https://github.com/m-lakshay/m-lakshay/blob/output/github-contribution-grid-snake.svg)
