@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lakshay
 - 👀 I’m interested in Coding and Sports.
 - 🌱 I’m currently learning c++.
-- 📫 Connect with me on www.instagran.com/i_m__lakshay/
+- 📫 Connect with me on www.instagram.com/i_m__lakshay/
 
 <!---
 m-lakshay/m-lakshay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
