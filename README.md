@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lakshay
-- 👀 I’m interested in Coding and Sports.
+- 👀 I’m interested in Filmaking and Sports.
 - 🌱 I’m currently learning Python.
 - 📫 Connect with me on www.instagram.com/i_m__lakshay/
 
